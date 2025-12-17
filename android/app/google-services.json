@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457081789402",
+    "project_id": "tinkerhubflutter",
+    "storage_bucket": "tinkerhubflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457081789402:android:49f6c4153259cc39fcfee3",
+        "android_client_info": {
+          "package_name": "com.example.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ5AyhMKEDfd_GaCd-ClZg1j43B-6CmIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
